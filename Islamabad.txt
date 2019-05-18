@@ -1,0 +1,6 @@
+F6Markaz//KhyberDodai;03088100011;Nando's;0512601770;TableTalk;0512271927//LittleAsia;0512272435//AndaazRestaurant;03004560707
+F7Markaz//NewKabulRestaurant;0512650953//#EAT;03405556366;GoldenDragon;0512610916;HengChang;0512608865;KimMunChineseRestaurant;0512651489//Angelo's;0512656969;Rendezvous;0512610833
+F8Markaz//HabibiRestaurant;0514448222//ChinatownRestaurant;0512854577//TehzeebRestaurant;0512818198
+G8Markaz//ziaBhatti;0512202444;lavishdine;0512252550//DokaMocca;0512282014//LavishDineRestaurant;0512252550
+F10Markaz//gujranwalabbq;03007470580;food24hours;0512809530//XinhuaCapitalRestaurant;0512100100//CafeDaydreams;0512111997;IncantreCoffeeCafé;0518487002
+G11Markaz//silverGrill;0512362125;crispybroast;0512360999//hotnSpicyChinese;03137663513//LunchGhar;03005136930
